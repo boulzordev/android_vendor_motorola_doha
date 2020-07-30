@@ -369,7 +369,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     DynamicDDSService \
-    MotoDolbyV3 \
     MotoSignatureApp \
     QtiTelephonyService \
     datastatusnotification \
@@ -382,8 +381,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentXGoogleHALO \
     VzwDM \
     atfwd \
-    com.qualcomm.location \
-    daxService \
     ims \
     qcrilmsgtunnel \
     vzwPcoExt \
